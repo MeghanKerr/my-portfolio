@@ -1,1 +1,1 @@
-# my-portfolio
+# my-portfolio is the final assessment from the "Introduction to Web Development with HTML, CSS, JavaScript" subject, part of the "IBM Full Stack Developer Professional Certificate" course via Coursera.
